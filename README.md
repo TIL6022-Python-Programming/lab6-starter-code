@@ -1,12 +1,12 @@
 # Lab1 Starter Code
-This repository contains the code template for the Lab 1 Python Environment developed for the course TIL6022 Python Programming at TU Delft. 
+This repository contains the code template for Lab 6 Data Visualization developed for the course TIL6022 Python Programming at TU Delft. 
 
 ## Instructions for Teachers
 
-Use this as a template to create the lab 1 assignment in GitHub Classroom to enable automatic grading of code submissions. 
+Use this as a template to create the lab 6 assignment in GitHub Classroom to enable automatic grading of code submissions. 
 
-The repository contains the Jupyter Notebook lab1_2025.ipynb, which students will work on. The repo needs to contain a test file for this Jupyter Notebook for the autograding. 
-The test file included here is lab1_test.py. 
+The repository contains the Jupyter Notebook lab6_2025.ipynb, which students will work on. The repo needs to contain a test file for this Jupyter Notebook for the autograding. 
+The test file included here is lab6_test.py. 
 
 ## Instructions for Students
 
@@ -18,7 +18,7 @@ After receiving the assignment, modify the code in the Jupyter Notebook and comm
 
 ## Lab Teaching Staff
 * Instructor: Yanan Xin
-* Teaching Assistants: Theivaprakasham Hari, Ziteng Li
+* Teaching Assistants: Theivaprakasham Hari
 
 
 
